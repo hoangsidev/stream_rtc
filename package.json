@@ -18,6 +18,7 @@
   "homepage": "https://github.com/hoangsidev/stream_rtc#readme",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "webpack": "^4.12.1"
   }
 }
